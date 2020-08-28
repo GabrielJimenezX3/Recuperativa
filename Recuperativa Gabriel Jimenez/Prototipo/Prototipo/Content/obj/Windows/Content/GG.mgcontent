@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/GG.spritefont</SourceFile>
+  <SourceTime>2020-08-27T13:00:26.0387039-04:00</SourceTime>
+  <DestFile>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/bin/Windows/Content/GG.xnb</DestFile>
+  <DestTime>2020-08-27T13:02:15.2318811-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

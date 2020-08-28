@@ -1,0 +1,48 @@
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ChumBucket.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ComicTag3.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Disparo.wma
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Disparo.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Earls Revenge.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Energy.wma
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Font.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\GameOver.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\GG.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Hawaiian Cocktail.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Life.wma
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Muro.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Muro2.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ParedAncho (1).xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ParedAncho1.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ParedLargo (1).xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\ParedLargo1.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Pausa.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\PlankTitle.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Plankton Suffers.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Plankton.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\PlanktonRight.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Rock.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Space_Music.wma
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Content\Sponge Monger.xnb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Prototipo.exe
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\Prototipo.pdb
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\obj\x86\Release\Prototipo.csprojAssemblyReference.cache
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\obj\x86\Release\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\obj\x86\Release\Prototipo.csproj.CopyComplete
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\obj\x86\Release\Prototipo.exe
+C:\Users\gabriel andres\Desktop\cheats\POA_progra2D-master\Prototipo\Prototipo\obj\x86\Release\Prototipo.pdb

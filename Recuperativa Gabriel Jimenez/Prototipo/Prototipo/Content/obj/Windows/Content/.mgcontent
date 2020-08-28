@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/ChumBucket.jpg</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/ComicTag3.wav</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Earls Revenge.wav</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Font.spritefont</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/GameOver.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/GG.spritefont</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Hawaiian Cocktail.wav</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Muro.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Muro2.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/ParedAncho (1).png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/ParedLargo (1).png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Pausa.jpg</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/PlankTitle.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Plankton Suffers.wav</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Plankton.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/PlanktonRight.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Rock.png</File>
+    <File>C:/Users/gabriel andres/Desktop/cheats/POA_progra2D-master/Prototipo/Prototipo/Content/Sponge Monger.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>ParedAncho1.png</File>
+    <File>ParedLargo1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
